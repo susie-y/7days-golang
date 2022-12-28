@@ -1,5 +1,6 @@
 package main
 
+// 用标准库 net/http 启动一个 web server
 // $ curl http://localhost:9999/
 // URL.Path = "/"
 // $ curl http://localhost:9999/hello

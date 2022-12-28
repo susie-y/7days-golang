@@ -1,5 +1,6 @@
 package main
 
+// 定义一个 Engine struct，实现 Handler interface，拦截 server 收到的所有请求进行自定义处理。
 // $ curl http://localhost:9999/
 // URL.Path = "/"
 // $ curl http://localhost:9999/hello

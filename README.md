@@ -1,5 +1,7 @@
 # 7 days golang programs from scratch
 
+fork geektutu 的 [7days golang](https://github.com/geektutu/7days-golang) 来学习。以下为原项目的 readme。
+
 [![CodeSize](https://img.shields.io/github/languages/code-size/geektutu/7days-golang)](https://github.com/geektutu/7days-golang)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
 
