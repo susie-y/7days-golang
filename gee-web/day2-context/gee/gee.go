@@ -15,7 +15,9 @@ type Engine struct {
 
 // New is the constructor of gee.Engine
 func New() *Engine {
-	return &Engine{router: newRouter()}
+	return &Engine{
+		router: newRouter(),
+	}
 }
 
 func (engine *Engine) addRoute(method string, pattern string, handler HandlerFunc) {
